@@ -714,7 +714,17 @@ Rotate Transition in foote Soical Icon
 
 .linkedin-icon-footer {
   margin-bottom: 8px;
-  width: 30px;
+  width: 10px;
+}
+
+.cv{
+  
+  margin-left: 9.5px;
+  margin-top: 6.5px;
+  font-weight: bold;
+  font-family:monospace;
+  color: #27ae60;
+  
 }
 
 
